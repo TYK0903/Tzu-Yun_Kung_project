@@ -53,4 +53,11 @@ The dataset I used in this project is from Brain and Mind Lab, Taiwan. https://g
 
 
 ## Conclusion and acknowledgement
+<<<<<<< HEAD
 From the results, we observed notable differences between the two types of inference, as well as variations in their learning trajectories. These findings suggest the need for more in-depth analyses in the future.
+=======
+From the results, we observed notable differences between the two types of inference, as well as variations in their learning trajectories. These findings suggest the need for more in-depth analyses in the future.
+
+
+
+>>>>>>> 5843dc082a24e3050e24997c6056875cdb8538c0
