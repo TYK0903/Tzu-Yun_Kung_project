@@ -18,7 +18,7 @@ However, inference is not always passive. It can also take an active form, invol
 To explore this distinction, our study aims to examine how the brain supports these two types of inference—active and passive—during the process of posterior belief integration. To this end, our lab designed the Visual Rule Inference Task (VRIT), a paradigm specifically developed to probe the neural mechanisms involved in these distinct inferential processes.
 The goal of this project is to uncover the inference processes that underlie participants’ behavior as they perform the VRIT. To do so, I analyzed both neural and behavioral data, with a particular focus on how participants engage in inference under different task conditions—namely, active versus passive inference. More specifically, I applied trial-by-trial analysis to track participants’ learning trajectories over time. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PTYs_JFKsHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Tools
 
