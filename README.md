@@ -5,7 +5,7 @@
 type: "project" # DON'T TOUCH THIS ! :)
 date: "2025-06-14" # Date you first upload your project.
 # Title of your project (we like creative title)
-title: "Understanding Learning Trajectories in VRIT: Dynamic Behavioral and Neural Signatures of Inference"
+title: "Understanding Learning Trajectories in VRIT:Dynamic Behavioral and Neural Signatures of Inference"
 
 # List the names of the collaborators within the [ ]. If alone, simple put your name within []
 names: [Tzu-Yun Kung]
