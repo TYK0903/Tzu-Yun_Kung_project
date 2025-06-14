@@ -11,7 +11,7 @@ title: "Understanding Learning Trajectories in VRIT: Dynamic Behavioral and Neu
 names: [Tzu-Yun Kung]
 
 # Your project GitHub repository URL
-github_repo: https://github.com/PSY6983-2021/project_template
+github_repo: [https://github.com/PSY6983-2021/project_template](https://github.com/TYK0903/Tzu-Yun_Kung_project.git)
 
 # If you are working on a project that has website, indicate the full url including "https://" below or leave it empty.
 website:
@@ -58,6 +58,7 @@ At the end of this project, we will have:
  - The current markdown document, completed and revised.
  - A gallery of the student projects at Brainhack 2025.
  - Instructions on the website about how to submit a pull request to the [brainhack school website](https://github.com/PSY6983-2021) in order to add the project description to the website.
+ - "As the study is still unpublished, this repository contains only the Python scripts I wrote and shared as part of my learning experience during the Brainhack School."
 
 ## Results
 
